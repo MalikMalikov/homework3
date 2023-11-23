@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\bin\Debug\net6.0\Console1.exe
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\bin\Debug\net6.0\Console1.deps.json
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\bin\Debug\net6.0\Console1.runtimeconfig.json
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\bin\Debug\net6.0\Console1.dll
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\bin\Debug\net6.0\Console1.pdb
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.dll
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\refint\Console1.dll
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.pdb
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\Console1.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\CodeAcademy\New\HomeworkFirst\Console1\obj\Debug\net6.0\ref\Console1.dll
